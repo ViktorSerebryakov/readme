@@ -1,12 +1,11 @@
-h1 Landings
+Landings
 ===========
 
-h2 Description
-———————————-
+## Description
 Лэндинги выполнены в формате java server page (jsp),  и упакованы в war архив.
 
 
-### h3 Installation
+## Installation
 
 Для запуска лэндингов необходимо скачать apache tomcat,
  и закинуть .war архив в директорию tomcat/webapps.
